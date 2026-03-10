@@ -6,7 +6,9 @@
         public string Titulo { get; set; }
         public string Autor {  get; set; }
         public string Editora { get; set; }
-        public DateTime DatePublicacao  { get; set; }
+        public DateTime DataPublicacao  { get; set; }
+
+        public string Corredor { get; set; }
 
 
 
